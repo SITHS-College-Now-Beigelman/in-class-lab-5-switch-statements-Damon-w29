@@ -1,5 +1,5 @@
 // Damon Wu 
-// 9/23/2024
+// 10/8/2024
 // Homework 1 part 1 
 
 #include <iostream>
@@ -102,6 +102,4 @@ int main () {
     S
     For walking slowly you would need to walk for: 142.9 minutes.
     */
-    
-
 }
