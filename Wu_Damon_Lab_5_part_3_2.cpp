@@ -19,8 +19,9 @@ int main (){
     int moves;
     
     //calculation vairables
-    int finalY;
-    int finalX;
+    int Y;
+    int X;
+    int totalmoves;
     //code
 
     srand(time(0));
