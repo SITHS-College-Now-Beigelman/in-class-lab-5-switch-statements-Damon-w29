@@ -53,7 +53,7 @@ int main (){
             cout << "The robot finally made it! And it only took it " << totalm << " moves whilst moving randomly! \n";
         }
         if (Y >= 5 || X >= 5){
-            cout << "The robot got wayyyy to lost and died :( \n";
+            cout << "The robot got way to lost and died :( \n";
         }
     return 0;
 }
